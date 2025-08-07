@@ -9,17 +9,17 @@ const categories = [
   {
     key: 'breakfast',
     label: 'Breakfast',
-    url: 'https://heyzine.com/flip-book/7739f8f5a0.html'
+    url: 'https://heyzine.com/flip-book/54a989a023.html'
   },
   {
     key: 'lunch_dinner',
     label: 'Lunch / Dinner',
-    url: 'https://heyzine.com/flip-book/6c57bcd799.html'
+    url: 'https://heyzine.com/flip-book/8e8c132414.html'
   },
   {
     key: 'Beverage',
     label: 'Beverage',
-    url: 'https://heyzine.com/flip-book/618bf8ac86.html'
+    url: 'https://heyzine.com/flip-book/6e2f6de4c0.html'
   }
 ];
 
