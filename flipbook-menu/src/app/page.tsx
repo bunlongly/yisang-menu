@@ -14,12 +14,12 @@ const categories = [
   {
     key: 'lunch_dinner',
     label: 'Lunch / Dinner',
-    url: 'https://heyzine.com/flip-book/9761db97ca.html'
+    url: 'https://heyzine.com/flip-book/6c57bcd799.html'
   },
   {
     key: 'Beverage',
     label: 'Beverage',
-    url: 'https://heyzine.com/flip-book/9761db97ca.html'
+    url: 'https://heyzine.com/flip-book/617e0ed729.html#page/1'
   }
 ];
 

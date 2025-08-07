@@ -4,7 +4,7 @@ import '@/styles/globals.css';
 import React from 'react';
 import { Cardo } from 'next/font/google';
 
-// only regular (400), and expose a CSS variable
+
 const cardo = Cardo({
   subsets: ['latin'],
   weight: ['400'],
