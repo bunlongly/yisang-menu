@@ -14,7 +14,7 @@ const categories = [
   {
     key: 'lunch_dinner',
     label: 'Lunch / Dinner',
-    url: 'https://heyzine.com/flip-book/8e8c132414.html'
+    url: 'https://heyzine.com/flip-book/92eec93fa8.html'
   },
   {
     key: 'Beverage',
