@@ -20,6 +20,11 @@ const categories = [
     key: 'Beverage',
     label: 'Beverage',
     url: 'https://heyzine.com/flip-book/6e2f6de4c0.html'
+  },
+  {
+    key: 'Yi Sang Moon Cake 2025',
+    label: 'Yi Sang Moon Cake 2025',
+    url: 'https://heyzine.com/flip-book/456245990e.html#page/1'
   }
 ];
 
